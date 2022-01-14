@@ -31,16 +31,20 @@
 - https://www.theanalysisfactor.com/changing-the-scale-of-predictor-variables/
 - https://stackoverflow.com/questions/31029340/how-to-adjust-scaled-scikit-learn-logicistic-regression-coeffs-to-score-a-non-sc
 - https://stackoverflow.com/questions/14510277/scale-back-linear-regression-coefficients-in-r-from-scaled-and-centered-data
-
 - acf vs pacf
 - https://programmer.ink/think/reproduction-of-acf-and-pacf-in-python.html
 - https://blog.quantinsti.com/autoregression/
 - https://quick-adviser.com/how-do-you-manually-calculate-acf/
 - https://www.geeksforgeeks.org/autocorrelation-plot-using-matplotlib/
-
 - linear algebra
 - https://datascienceplus.com/linear-regression-from-scratch-in-python/
 - https://godatadriven.com/blog/the-linear-algebra-behind-linear-regression/
-
 - Find gradient descent w.r.t partial derivatives
+- https://medium.com/intro-to-artificial-intelligence/gradient-descent-algorithm-explained-with-linear-regression-example-ff6b5491fdb9
+- https://www.analyticsvidhya.com/blog/2021/04/gradient-descent-in-linear-regression/
+- https://towardsdatascience.com/gradient-descent-from-scratch-e8b75fa986cc
+- https://neuraspike.com/blog/linear-regression-gradient-descent-python/
+- https://medium.com/analytics-vidhya/linear-regression-gradient-descent-intuition-and-math-c9a8f5aeeb22
 - https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931
+- https://medium.com/@pasdan/gradient-descent-via-python-f18566dd98c6
+- https://ajaytech.co/gradient-descent/
